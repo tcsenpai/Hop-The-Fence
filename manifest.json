@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "HopTheFence",
+  "version": "1.0",
+
+  "description": "Hop the fence! Access ladder services such as 12ft.io, 1ft.io and self hosted alternatives (Ladder & 13ft for example) with a button!",
+
+  "icons": {
+    "512": "icons/dd.png"
+  },
+
+  "permissions": ["activeTab", "tabs"],
+
+  "browser_action": {
+    "default_icon": "icons/dd.png",
+    "default_title": "Hop The Fence!",
+    "default_popup": "popup/ui.html"
+  }
+}

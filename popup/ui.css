@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.15em;
+    color: #000;
+    background-image: url("assets/fence.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.popup {
+    background-color: #ffffff00;
+    border: solid 1px #cccccc5f;
+    border-radius: 25px;
+    width: fit-content;
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    border: solid 1px #ccc;
+    background-color: #ffffffb7;
+    color: #000;
+    font-size: 1.15em;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.dim {
+    background-color: #ffffff9a;
+    width: fit-content;
+    padding: 10px;
+    margin: 5px;
+}
