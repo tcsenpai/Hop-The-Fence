@@ -2,6 +2,8 @@
 
 An easy to use, fully customizable and privacy first web page simplifier!
 
+Firefox extension direct link: https://addons.mozilla.org/en-US/firefox/addon/hop-the-fence/
+
 ## What is HTF?
 
 HTF (Hop the Fence) is a simple extension that makes it easy to use services like 1ft.io, 12ft.io and self hosted services like Ladder and 13ft.
